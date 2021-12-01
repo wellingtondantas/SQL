@@ -1,7 +1,7 @@
 /*
 
 Considerando uma tabela com o nome: CLIENTE
-E campos: CODIGO, NOME, CIDADE.
+E campos: CODIGO, NOME, CIDADE e OUTROS.
 
 */
 
